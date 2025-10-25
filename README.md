@@ -1,13 +1,14 @@
 # Yummy-Website-
 A deliciously designed food discovery website built with jQuery, Bootstrap, and CSS — serving up responsive layouts and interactive recipe browsing.
 
+Live Demo [View on GitHub Pages]site is live at: (https://rahmahafzz.github.io/Yummy-Website-/)
+
+
 🍽️Yummy – Discover Meals with Style & Flavor
 
 Yummy is a fully responsive and visually captivating food discovery website crafted with jQuery, Bootstrap, and CSS.
 It offers an interactive experience where users can explore meals and recipes through a sleek, dynamic interface that combines functionality and design harmony.
 
-Live Demo
-[View on GitHub Pages]site is live at: (https://rahmahafzz.github.io/Yummy-Website-/)
 
 🎯 Project Overview
 
